@@ -24,8 +24,8 @@
 
 ## Інструкції з використання
 
-1. Клонуйте репозиторій: `git clone https://github.com/ваш-користувач/ваш-репозиторій.git`
-2. Перейдіть у директорію проекту: `cd ваш-репозиторій`
+1. Клонуйте репозиторій: `git clone https://github.com/KyryloBabych/Lab7_Babych_program/`
+2. Перейдіть у директорію проекту: `cd Lab7_Babych_program`
 3. Відкрийте файл "Lab7_Babych_program.sln" та редагуйте код під свій лад `Lab7_Babych_program.sln`
 
 
