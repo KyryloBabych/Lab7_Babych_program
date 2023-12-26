@@ -1,0 +1,22 @@
+[
+  {
+    "Name": null,
+    "Genre": 1,
+    "YearReleased": "2022-01-01T00:00:00",
+    "Author": "Author1",
+    "Price": 9.99,
+    "DefaultProperty": "Default",
+    "CombinedInfo": " - Author1",
+    "ReleaseYear": "2022-01-01T00:00:00"
+  },
+  {
+    "Name": null,
+    "Genre": 3,
+    "YearReleased": "2022-02-01T00:00:00",
+    "Author": "Author2",
+    "Price": 14.99,
+    "DefaultProperty": "Default",
+    "CombinedInfo": " - Author2",
+    "ReleaseYear": "2022-02-01T00:00:00"
+  }
+]

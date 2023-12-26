@@ -1,0 +1,17 @@
+D:\KHAI\ООП\Lab7_Babych_program\Lab7_Babych_program\obj\Debug\net8.0\Lab7_Babych_program.GeneratedMSBuildEditorConfig.editorconfig
+D:\KHAI\ООП\Lab7_Babych_program\Lab7_Babych_program\obj\Debug\net8.0\Lab7_Babych_program.AssemblyInfoInputs.cache
+D:\KHAI\ООП\Lab7_Babych_program\Lab7_Babych_program\obj\Debug\net8.0\Lab7_Babych_program.AssemblyInfo.cs
+D:\KHAI\ООП\Lab7_Babych_program\Lab7_Babych_program\obj\Debug\net8.0\Lab7_Babych_program.csproj.CoreCompileInputs.cache
+D:\KHAI\ООП\Lab7_Babych_program\Lab7_Babych_program\bin\Debug\net8.0\Lab7_Babych_program.exe
+D:\KHAI\ООП\Lab7_Babych_program\Lab7_Babych_program\bin\Debug\net8.0\Lab7_Babych_program.deps.json
+D:\KHAI\ООП\Lab7_Babych_program\Lab7_Babych_program\bin\Debug\net8.0\Lab7_Babych_program.runtimeconfig.json
+D:\KHAI\ООП\Lab7_Babych_program\Lab7_Babych_program\bin\Debug\net8.0\Lab7_Babych_program.dll
+D:\KHAI\ООП\Lab7_Babych_program\Lab7_Babych_program\bin\Debug\net8.0\Lab7_Babych_program.pdb
+D:\KHAI\ООП\Lab7_Babych_program\Lab7_Babych_program\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\KHAI\ООП\Lab7_Babych_program\Lab7_Babych_program\obj\Debug\net8.0\Lab7_Babych_program.csproj.AssemblyReference.cache
+D:\KHAI\ООП\Lab7_Babych_program\Lab7_Babych_program\obj\Debug\net8.0\Lab7_Babych_program.csproj.CopyComplete
+D:\KHAI\ООП\Lab7_Babych_program\Lab7_Babych_program\obj\Debug\net8.0\Lab7_Babych_program.dll
+D:\KHAI\ООП\Lab7_Babych_program\Lab7_Babych_program\obj\Debug\net8.0\refint\Lab7_Babych_program.dll
+D:\KHAI\ООП\Lab7_Babych_program\Lab7_Babych_program\obj\Debug\net8.0\Lab7_Babych_program.pdb
+D:\KHAI\ООП\Lab7_Babych_program\Lab7_Babych_program\obj\Debug\net8.0\Lab7_Babych_program.genruntimeconfig.cache
+D:\KHAI\ООП\Lab7_Babych_program\Lab7_Babych_program\obj\Debug\net8.0\ref\Lab7_Babych_program.dll
